@@ -28,3 +28,7 @@ You have Several different types of code that you can ues to run test. you have.
 
 - This is video that I can watch when not understanding something.
   - [What on Earth is Recursion](https://www.youtube.com/watch?v=Mv9NEXX1VHc)
+
+## Link to my Code/ Markdown file.
+
+- [Link](https://github.com/JerrodBolton/Full_RN)
