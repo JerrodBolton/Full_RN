@@ -4,8 +4,6 @@
 
 Are powerful and concise method for creating lists in Python that becomes essential the more I work with lists, and lists of lists.
 
-- Example 1: Creating a list with list comprehensions
-
 ```python
 
 # construct a basic list using range() and list comprehensions
