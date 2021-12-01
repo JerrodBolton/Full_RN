@@ -30,6 +30,7 @@ When I need to install my app in django ues this...[try this tutorial](https://d
   ```
 
 - $ python manage.py runserver `this is ues to start the server`
+  [command](https://gist.github.com/bradtraversy/06538da5924882b2cf30fa6310d505b1)
 
 ## [How Django Works Behind the Scenes](https://wsvincent.com/how-django-works-behind-the-scenes/)
 
