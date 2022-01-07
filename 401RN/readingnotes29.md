@@ -13,7 +13,7 @@ You can custom the way you make the django app in your terminal with a few comma
 ## [DjangoX](https://github.com/wsvincent/djangox)
 
 ^^^ this link isn't working ^^^^^^^
-
+ 
 ### Videos:
 
 [Creating a Custom User Moel](https://www.youtube.com/watch?v=eCeRC7E8Z7Y&t=59s)
